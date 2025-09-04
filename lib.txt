@@ -1,0 +1,3 @@
+pytesseract : extracts text from images
+pillow : helps open/resize images
+tesseract not jst python wrapper
